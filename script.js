@@ -3,8 +3,10 @@ console.log("hello world");
 let a = 3;
 let b = 2;
 
-console.log(a + b);
+function tambah() {
+  console.log(10 + 5);
+}
 
-function hitung() {
-  console.log("hitung");
+function kurang() {
+  console.log(10 - 5);
 }
