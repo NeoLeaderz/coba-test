@@ -10,3 +10,7 @@ function tambah() {
 function kurang() {
   console.log(10 - 5);
 }
+
+function kali() {
+  console.log(1 * 5);
+}
